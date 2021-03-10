@@ -1,6 +1,6 @@
 # PHSX815 Spring 2021 Week 6
 
-## Rejection Sampling
+## Monte Carlo Integration
 
 This repository contains the following programs:
 - `HW7/CoSim.x` : approximates the volume of the solid obtained by rotating
